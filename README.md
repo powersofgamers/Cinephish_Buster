@@ -15,7 +15,7 @@ Este script utiliza predominantemente bibliotecas nativas do Python (`os`, `shut
 Certifique-se de ter o Python 3.10 ou superior instalado em sua máquina.
 
 1. **Clone ou baixe o script** para o seu ambiente local:
-   git clone 
+   git clone https://github.com/powersofgamers/Cinephish_Buster
    cd cinephish-buster
 
 
